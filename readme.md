@@ -1,0 +1,12 @@
+# js-array-objects-carousel
+- ex array
+- creare array con oggetti 
+- con un ciclo for(.Each) stampare nel DOM
+  - PER OGNI nome e valore dell oggetto
+- stampati nel DOM, i nomi delle chiavi
+  - title, e text, usare position absolute per metterle nell'immagine
+-  aggiungere omando evenListener ai bottoni
+  - SE clicca in su,rimuovere classe active all'immagine corrente, poi cambiare immagine incrementadno l'indice ++, e aggiungere classe active alla nuova immaggine 
+  - ALTRIMENTI SE clicca in giu, rimuovere classe active all'immagine corrente, poi cambiare immagine decrementando l'indice --,  e aggiungere classe active alla nuova immaggine 
+- Implementare timer automatico, che faccia slidare le immagini ogni tot secondi
+ - con il comando setInterval
